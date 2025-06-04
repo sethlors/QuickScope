@@ -24,7 +24,7 @@ When you install and run the app, it registers a Quick Look extension with the s
 ## Installation
 
 ### Download the DMG file
-[QuickScope.dmg](https://github.com/sethlors/quick-scope/QuickScope-1.0.dmg)
+[QuickScope.dmg](https://github.com/sethlors/QuickScope/raw/refs/heads/main/QuickScope-1.0.dmg)
 
 1. Download the DMG file from the link above
 2. Open the DMG file
